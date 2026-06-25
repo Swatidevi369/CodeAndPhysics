@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# *CodeAndPhysics*
+# about me 
 
 </div>
 
