@@ -1,23 +1,39 @@
-# 🐍 Learning Python
+# Welcome! My name is Swati 👋
 
-A collection of my Python learning journey — 
-notes, exercises, and mini projects.
+---
 
-## 📁 What's Inside
+<div align="center">
 
-- Basics → variables, loops, functions
-- Projects → small programs I built
-- Notes → key concepts I learned
+# *Swatidevi369*
 
-## 🛠️ Topics Covered
+</div>
 
-- Data types & variables
-- Conditionals & loops
-- Functions
-- Lists, dictionaries
-- File handling
+---
 
-## 🚀 How to Run
+I am from a Physics background, currently learning
+Python for scientific simulations and computational
+physics.
 
-`python
-python filename.py
+I am here to code already known textbook physics.
+I am starting from scratch so it'll take a long time
+to reach my potential. Well, I am already on the way! 🚀
+
+---
+
+## ⚡ Fun Facts
+
+- 🌟 June 2026 is the only month in my entire
+lifetime where I am socially connected with
+a lot of people. Before that I was in a
+socially introverted zone.
+
+- ❤️ I strongly believe in humanity.
+
+---
+
+<div align="center">
+
+*"Physics is the universe speaking in mathematics.
+I am just learning to listen through code."*
+
+</div>
